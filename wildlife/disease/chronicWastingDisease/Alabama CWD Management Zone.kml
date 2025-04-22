@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Alabama CWD Management Zone</name>
+    <description><![CDATA[The following counties are within the Chronic Wasting Disease Manage Zone (CMZ):<br>-- Lauderdale<br>-- Colbert<br>--Franklin<br><br>For Complete information, visit www.OutdoorAlabama.com/CWD-info<br><br>NOTE: CWD Zone Map Updated December 23, 2024<br>]]></description>
+    <NetworkLink>
+      <name>Alabama CWD Management Zone</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1Z2hpICZGzUEzz4NejaXl1I_0QS1tTvjO]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
